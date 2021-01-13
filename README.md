@@ -13,4 +13,4 @@ This project was developed with the following technologies:
 * Create with Bootstrap framework for responsive webdesign
 
 # Preview
-![alt img](https://github.com/selvajayarose/selvajayarose.github.io/blob/master/img/designrespo.jpg)# DesignResponsive
+![alt img](https://github.com/selvajayarose/DesignResponsive/blob/main/img/fullscreen.jpg?raw=true)# DesignResponsive
