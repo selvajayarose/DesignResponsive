@@ -52,7 +52,7 @@ textarea{
 }
 
 .parallax2{
-    height: 40vw;
+    height: 30vw;
     background: url('../img/pexels-photo1.jpeg')no-repeat 50%;
     background-size: cover;
     background-attachment: fixed;
@@ -61,6 +61,7 @@ textarea{
 .parallax2 h2{
     color: black;
     padding-bottom: 5vw;
+    margin-top: 50px;
 }
 
 .parallax2 p{
@@ -92,7 +93,7 @@ textarea{
 }
 
 .footer{
-    background-image: url('../img/footer.png');
+    background-image: url('../img/Footer.png');
     background-size: cover;
     background-position: center;
     height: 100vh;
